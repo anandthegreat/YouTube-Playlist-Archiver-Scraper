@@ -15,5 +15,8 @@ eg: youtube-archiver.sh https://www.youtube.com/playlist?list=PLTtjs-HViBW6x21nE
 videos.csv : A comma-separated file containing the video title,id and url of all the videos in the playlist. </br>
 archive.txt : Used to remember already downloaded videos. Only changes, if any, are appended in the videos.csv file. 
 
+### Screenshot
+![alt text](https://github.com/anandthegreat/YouTube-Playlist-Archiver-Scraper/blob/master/screenshot.png)
+
 ### WARNING
 The script will delete all files other than videos.csv and archive.txt (if exists). So, make sure you run the script in a new directory when using the first time. 
