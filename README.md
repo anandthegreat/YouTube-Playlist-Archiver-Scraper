@@ -6,8 +6,8 @@ Scrape or Archive YouTube Playlists into a CSV File with video's Title, ID &amp;
 
 ### Usage
 ```
-chmod +x youtube-archiver.sh
-./youtube-archiver.sh <playlist-url>
+$ chmod +x youtube-archiver.sh
+$ ./youtube-archiver.sh <playlist-url>
 ```
 eg: ./youtube-archiver.sh https://www.youtube.com/playlist?list=PLTtjs-HViBW6x21nEaDN737ZSH4-5e7z-
 
