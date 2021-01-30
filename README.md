@@ -2,7 +2,7 @@
 Scrape or Archive YouTube Playlists into a CSV File with video's Title, ID &amp; URL. If the playlist is updated, you can run the script again and the changes will be **appended** to the csv file. 
 
 ### Dependencies
-* [youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) 
+* [Latest version of youtube-dl](https://ytdl-org.github.io/youtube-dl/index.html) 
 
 ### Usage
 ```
